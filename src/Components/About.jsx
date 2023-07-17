@@ -6,7 +6,7 @@ const About = () => {
     <section className="py-20 w-full">
       <div className="container gap-8 relative flex flex-col justify-center items-center">
         <h1 className="text-6xl top-0 max-w-3xl  md:text-8xl text-center font-spicyRice tracking-[5.60px] yesOut">
-          ABOUT PEPE AND TOAD{" "}
+          A Wild Elixir
         </h1>
 
         <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-16 items-center justify-center mt-16">
