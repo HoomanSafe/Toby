@@ -4,7 +4,7 @@ const Features = () => {
   return (
     <section className="py-20 w-full">
       <div className="container gap-8 relative flex flex-col justify-center items-center">
-        <h1 className="text-6xl top-0 absolute md:text-8xl text-center font-spicyRice tracking-[5.60px] yesOut">
+        <h1 className="text-6xl top-0 lg:absolute md:text-8xl text-center font-spicyRice tracking-[5.60px] yesOut">
           Understand Your Power
         </h1>
         <p className="font-spicyRice mt-20 text-center text-white text-3xl lg:text-5xl max-w-3xl font-normal">
