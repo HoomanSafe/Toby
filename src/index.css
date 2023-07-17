@@ -1,0 +1,32 @@
+@import url("https://fonts.cdnfonts.com/css/spicy-rice");
+@import url("https://fonts.cdnfonts.com/css/sumana");
+@import url("https://fonts.cdnfonts.com/css/rakkas");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  #hero {
+    background: url(./assets/heroBg.svg) center center no-repeat;
+    background-size: cover;
+  }
+  img {
+    @apply mx-auto;
+  }
+  @media (max-width: 600px) {
+    #hero {
+      background-position: left center;
+    }
+  }
+  .gradi {
+    background: var(--dog, linear-gradient(83deg, #ffbe16 0%, #fff613 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .yesOut {
+    -webkit-text-stroke: 1px white;
+    color: transparent;
+  }
+}
