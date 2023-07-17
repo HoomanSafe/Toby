@@ -9,8 +9,7 @@ const Footer = () => {
           <article className="">
             <img src={footerLogo} alt="" className="mx-0" />
             <div className=" text-stone-950 text-2xl font-spicyRice tracking-wide">
-              We're here to assist you and will be happy to provide any
-              information or clarification you need
+              “Join the devious SharkDogs and help takeover the city of Ethereum
             </div>
           </article>
           <article className="flex flex-col gap-9">
