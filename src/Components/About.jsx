@@ -18,16 +18,11 @@ const About = () => {
           </article>
           <div className="  px-[37px] py-[62px] bg-gradient-to-b from-yellow-500 to-yellow-600 rounded-[26px] flex-col justify-center items-center inline-flex">
             <div className=" text-white text-xl font-normal">
-              Pepe and Toad the memecoin Launched on the ethereum. Our mission
-              is to provide a fun, community-driven investment opportunity that
-              celebrates the power of memes and pop culture. With a vision to
-              become the leading memecoin in the market, we believe Pepe and
-              Toad is the perfect addition to any investor’s portfolio. Join us
-              on this journey to revolutionize the world of memecoins.
-              <br />
-              the market, we believe Pepe and Toad is the perfect addition to
-              any investor’s portfolio. Join us on this journey to revolutionize
-              the world of memecoins.
+              SharkDogs have been around for centuries after a mad scientist
+              took his family pets and gave them 3 elixirs each. After that day
+              he never seen them again. They emerged from the beaches of Mexico
+              50 years after being dormant for some time and have been
+              tormenting the cities since
             </div>
           </div>
         </div>
