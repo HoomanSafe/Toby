@@ -8,15 +8,15 @@ const Hero = () => {
     >
       <div className="container gap-5 flex flex-col items-center justify-center">
         <p className="text-center text-white text-2xl font-normal leading-[38px]">
-          Pepe and Toad the memecoin Launched
+          A Mystical Adventure
         </p>
         <h1 className="text-center max-w-2xl  gradi  text-6xl md:text-7xl font-spicyRice  tracking-wider">
-          Don’t miss the Dev who make the Pepe Great
+          SharkDog
         </h1>
         <p className="max-w-3xl text-center text-white text-2xl font-normal">
-          Pepe and Toad the memecoin Launched on the ethereum. Our mission is to
-          provide a fun, community-driven investment opportunity that celebrates
-          the power of{" "}
+          Unleashing this ferocious beast is something the gods wish they’ve
+          never done. A wild creature twice the size of humans in a feral
+          mindset is a formidable force to reckon with.
         </p>
         <a
           href=""
