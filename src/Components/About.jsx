@@ -12,7 +12,7 @@ const About = () => {
         <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-16 items-center justify-center mt-16">
           <article className="flex flex-col gap-5">
             <h1 className="text-zinc-300 text-5xl font-spicyRice md:text-6xl tracking-[2.56px]">
-              THE BEST CRYPTO PLATFORM
+              Breed Of The Beast
             </h1>
             <img src={shark2} alt="" />
           </article>
