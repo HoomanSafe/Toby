@@ -19,7 +19,11 @@ const Footer = () => {
               COMMUNITY
             </div>
             <div className="flex items-center gap-6">
-              <a href="" target="_blank" className="">
+              <a
+                href="https://t.me/SharkDogUnleashed"
+                target="_blank"
+                className=""
+              >
                 <svg
                   width="49"
                   height="49"

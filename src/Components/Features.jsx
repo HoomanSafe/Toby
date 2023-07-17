@@ -18,11 +18,14 @@ const Features = () => {
               BUY SHARK DOG
             </div>
           </div>
-          <div className="px-8 py-4 rounded-[100px] shadow border border-amber-400 justify-center items-center gap-2.5 flex">
+          <a
+            href="https://t.me/SharkDogUnleashed"
+            className="px-8 py-4 rounded-[100px] shadow border border-amber-400 justify-center items-center gap-2.5 flex"
+          >
             <div className="text-white text-xl font-normal leading-7 tracking-tight">
               JOIN TELEGRAM
             </div>
-          </div>
+          </a>
         </div>
       </div>
     </section>
