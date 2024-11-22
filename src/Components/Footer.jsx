@@ -1,5 +1,5 @@
 import React from "react";
-import footerLogo from "../assets/footerLogo.png";
+import footerLogo from "../assets/logo4.png";
 
 const Footer = () => {
   return (
@@ -9,7 +9,7 @@ const Footer = () => {
           <article className="">
             <img src={footerLogo} alt="" className="mx-0" />
             <div className=" text-stone-950 text-2xl font-spicyRice tracking-wide">
-              “Join the devious SharkDogs and help takeover the city of Ethereum
+              “Jump to the Moon with Toby. 
             </div>
           </article>
           <article className="flex flex-col gap-9">
@@ -20,7 +20,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center gap-6">
               <a
-                href="https://t.me/SharkDogUnleashed"
+                href="https://t.me/Tobybnb"
                 target="_blank"
                 className=""
               >
@@ -67,7 +67,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://twitter.com/SharkDogETH"
+                href="http://x.com/Tobybnb"
                 target="_blank"
                 className=""
               >
