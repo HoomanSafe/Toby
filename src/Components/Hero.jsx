@@ -11,12 +11,10 @@ const Hero = () => {
           A Mystical Adventure
         </p>
         <h1 className="text-center max-w-2xl  gradi  text-6xl md:text-7xl font-spicyRice  tracking-wider">
-          SharkDog
+          Toby
         </h1>
         <p className="max-w-3xl text-center text-white text-2xl font-normal">
-          Unleashing this ferocious beast is something the gods wish they’ve
-          never done. A wild creature twice the size of humans in a feral
-          mindset is a formidable force to reckon with.
+          When opportunity arose, $TOBY answered! This isn't just another token—it's your gateway to long-term growth, powered by innovation and driven by the power of community. 💎
         </p>
         <a
           href=""
