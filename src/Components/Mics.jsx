@@ -1,5 +1,5 @@
 import React from "react";
-import shark4 from "../assets/shark4.png";
+import shark4 from "../assets/logo3.png";
 
 const Mics = () => {
   return (
