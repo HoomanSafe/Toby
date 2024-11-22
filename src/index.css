@@ -8,7 +8,7 @@
 
 @layer {
   #hero {
-    background: url(./assets/heroBg.svg) center center no-repeat;
+    background: url(./assets/bg.jpg) center center no-repeat;
     background-size: cover;
   }
   img {
